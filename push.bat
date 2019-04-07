@@ -1,3 +1,3 @@
 git add .
-git commit -m "2019-03-15 0010 - K-nearest neighbors"
+git commit -m "2019-04-07 0013 - Cleaning web log data"
 git push
