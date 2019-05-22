@@ -1,3 +1,3 @@
 git add .
-git commit -m "2019-04-07 0013 - Cleaning web log data"
+git commit -m "2019-05-22 0002 - Pandas"
 git push
