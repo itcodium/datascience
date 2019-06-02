@@ -1,3 +1,3 @@
 git add .
-git commit -m "2019-05-22 0004 - Data mining (Titanic Dataset)"
+git commit -m "2019-06-01 0004 - Data visualisation"
 git push
