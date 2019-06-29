@@ -1,3 +1,3 @@
 git add .
-git commit -m "2019-06-23 0007 - Nonlinear algorithms (210)"
+git commit -m "2019-06-29 0007 - Machine Learning"
 git push
