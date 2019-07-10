@@ -1,3 +1,3 @@
 git add .
-git commit -m "2019-06-29 0007 - Machine Learning"
+git commit -m "2019-07-09 0007 - numpy practica"
 git push
